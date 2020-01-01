@@ -11,7 +11,7 @@
 </p>
 
 <p align="justify">
-    TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open source. This repo contains the fundamental or basic of typescript and this repo is just for exercise purpose about typescript. There is build folder that contains how typescript runs in javascript version so we can compare between javascript and typescript.
+    TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open source. This repo contains the fundamental or basic of typescript and this repo is just for exercise purpose about typescript. There is build folder that contains how typescript runs in javascript version so we can compare between javascript and typescript. Build folder will appear while we run the script
 </p>
 
 ## Typescript Fundamental
