@@ -36,8 +36,10 @@
 1. Clone this repository
 2. Install the dependencies by running `yarn`
 3. Select in package.json what file TS you want to run and watch
-4. Open first terminal and execute use `yarn ts`, prefer using `gitbash` if you on `Windows`
-5. Open second terminal and execute nodemon using `yarn dev`
+4. Open first terminal and execute use `yarn ts` for convert file .ts => .js
+   ( prefer using `gitbash` if you on `Windows`)
+5. Edit `scripts` inside package.json in key `["dev": "nodemon ./build/~"]` and choose which JS script you want to execute
+6. Open second terminal and execute nodemon using `yarn dev`
 
 ## License
 
